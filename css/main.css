@@ -3,6 +3,9 @@ html {
   color: #fff;
 }
 
+.darkgrey {
+  background-color: #121212;
+}
 .cursive {
   font-family: "Homemade Apple", cursive;
 }
@@ -20,13 +23,13 @@ html {
 }
 
 .lightred {
-  color: #BF959E;
+  color: #bf959e;
 }
 
 .lightred2 {
-  color: #A16F79;
+  color: #a16f79;
 }
 
 .mauve {
-  color: #762F50;
+  color: #440ec1;
 }
